@@ -34,5 +34,5 @@ This project is a classic two-player Pong game developed in Assembly Language fo
 - **Return to the main menu:** `ESC (Escape key)`
 
 ## Disclaimer
-- The whole project was made a school project and was not made with any commercial purposes in mind.
+- The whole project was made as a school project and was not made with any commercial purposes in mind.
 - The Pokéball and Kirby skins are fan-made and not affiliated with or endorsed by Nintendo or HAL Laboratory, respectively. These skins are used solely for educational purposes and to demonstrate the game's customization features.
